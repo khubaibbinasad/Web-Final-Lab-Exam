@@ -17,3 +17,4 @@ for that purpose install bootstrap , react bootstrap and fortawesome for styling
 Make Two main jsx files header and tasks and require it in app.jsx
 In Header  there is button name add onClick it call a function of toggle task when render a form in below
 in which use jquery method to call add task 
+and tasks jsx file to show task and deleting task
